@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.gridfs.GridFsTemplate;
 
 import com.mongodb.Mongo;
 import com.mongodb.MongoClient;
-//configuraciones de la base de datos mongoDB
+//configuraciones de la base de datos mongoDB  
 @Configuration
 public class MongoGridFsTemplate  extends AbstractMongoConfiguration{
 	

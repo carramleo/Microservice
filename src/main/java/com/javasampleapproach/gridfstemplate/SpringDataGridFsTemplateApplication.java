@@ -1,5 +1,5 @@
 package com.javasampleapproach.gridfstemplate;
-//Fichero java principal ejecutable
+//Fichero java principal ejecutable microserver
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

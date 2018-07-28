@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBObject;
 import com.mongodb.gridfs.GridFSDBFile;
-
+//funciones del microservicio
 @RestController
 @RequestMapping("/api")
 public class RestControllerAPIs {

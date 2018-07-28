@@ -8,7 +8,7 @@
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>SpringDataGridFsTemplate</name>
+	<name>Microservice</name>
 	<description>SpringDataGridFsTemplate</description>
 
 	<parent>
